@@ -1,0 +1,61 @@
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\bin\Debug\♥Binder♥.exe
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\bin\Debug\♥Binder♥.pdb
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\bin\Debug\♥Binder♥.xml
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\_Binder_.Resources.resources
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\♥Binder♥.exe
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\♥Binder♥.xml
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\♥Binder♥.pdb
+C:\Users\Flop\AppData\Local\Temporary Projects\♥Binder♥\obj\x86\Debug\_Binder_.main.resources
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\♥Binder♥.exe
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\♥Binder♥.xml
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\♥Binder♥.pdb
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Debug\♥Binder♥.exe
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Debug\♥Binder♥.pdb
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Debug\♥Binder♥.xml
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\_Binder_.main.resources
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\_Binder_.Resources.resources
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Debug\♥Binder♥.exe.config
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\bin\Debug\♥Binder♥.exe.config
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\♥Binder♥.exe
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\♥Binder♥.xml
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\♥Binder♥.pdb
+C:\Users\Kolby\Desktop\♥Binder♥\bin\Debug\♥Binder♥.exe
+C:\Users\Kolby\Desktop\♥Binder♥\bin\Debug\♥Binder♥.pdb
+C:\Users\Kolby\Desktop\♥Binder♥\bin\Debug\♥Binder♥.xml
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\_Binder_.main.resources
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\_Binder_.Resources.resources
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Kolby\Desktop\♥Binder♥\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Kolby\Desktop\RESUME\bin\Debug\♥Binder♥.exe.config
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\♥Binder♥.exe
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\♥Binder♥.xml
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\♥Binder♥.pdb
+C:\Users\Kolby\Desktop\RESUME\bin\Debug\♥Binder♥.exe
+C:\Users\Kolby\Desktop\RESUME\bin\Debug\♥Binder♥.pdb
+C:\Users\Kolby\Desktop\RESUME\bin\Debug\♥Binder♥.xml
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\_Binder_.main.resources
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\_Binder_.Resources.resources
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource-ResGen.read.6.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.write.4.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.write.86.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.write.88.tlog
+C:\Users\Kolby\Desktop\RESUME\obj\x86\Debug\GenerateResource.write.60.tlog
