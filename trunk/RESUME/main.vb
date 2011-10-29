@@ -166,6 +166,14 @@ Public Class main
                 IO.File.Delete(Application.StartupPath + "\Taylor.MP3")
                 MsgBox("Files Were Crypted Successfully!")
                 IO.File.Delete(Application.StartupPath + "\Taylor2.MP3")
+				
+				            If CheckBox2.Checked = True Then
+                Dim stream As New FileStream(sfd.FileName, FileMode.Open, FileAccess.Write)
+                stream.Seek(&HF4, SeekOrigin.Begin)
+                stream.WriteByte(11)
+                stream.Flush()
+                stream.Close()
+            End If
 
             End If
         End Using
