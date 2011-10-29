@@ -1,0 +1,12 @@
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Release\♥Binder♥.exe.config
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Release\♥Binder♥.exe
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Release\♥Binder♥.pdb
+C:\Users\Flop\Desktop\bind\♥Binder♥\bin\Release\♥Binder♥.xml
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\_Binder_.main.resources
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\_Binder_.Resources.resources
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\♥Binder♥.exe
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\♥Binder♥.xml
+C:\Users\Flop\Desktop\bind\♥Binder♥\obj\x86\Release\♥Binder♥.pdb
